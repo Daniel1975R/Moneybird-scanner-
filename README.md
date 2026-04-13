@@ -1,5 +1,3 @@
-# Moneybird-scanner-
-This tool adds descriptions for tickets in moneybird
 # 📋 Moneybird Scanner
 
 > A lightweight, mobile-first tool that helps volunteer organizations and small businesses scan receipts and automatically route them to Moneybird with the right descriptions — no app installation required.
@@ -89,6 +87,12 @@ This allows Moneybird and your bookkeeper to instantly identify the receipt with
 - Canvas API for receipt framing
 - Web Share API for native iOS sharing
 - localStorage for persistent configuration
+
+---
+
+## Built by
+
+[Commerciverse](https://commerciverse.nl) — interim management & digital operations for non-profits and SMEs.
 
 ---
 
