@@ -92,12 +92,6 @@ This allows Moneybird and your bookkeeper to instantly identify the receipt with
 
 ---
 
-## Built by
-
-[Commerciverse](https://commerciverse.nl) — interim management & digital operations for non-profits and SMEs.
-
----
-
 ## License
 
 MIT — free to use, modify, and distribute.
